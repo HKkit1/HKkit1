@@ -1,5 +1,8 @@
 ## Olá, meu nome é HKkit1!
 
+<img align='center' src=https://github.com/HKkit1/HKkit1/blob/main/octocat-1764958144217.png width="215">
+
+
 ### ⚙️ GitHub Analytics
 
 <table>
