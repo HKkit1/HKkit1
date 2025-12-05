@@ -1,4 +1,4 @@
-## Olá, meu nome é Davi José Boico!
+## Olá, meu nome é HKkit1!
 
 ### ⚙️ GitHub Analytics
 
@@ -7,14 +7,14 @@
 	<td>
   	<img
     	align="left"
-    	src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+    	src="https://github-readme-stats.vercel.app/api?HKkit1=iuricode&theme=dark&hide_border=false&include_all_commits=true"
     	alt="Github Stats"
   	/>
 	</td>
 	<td>
   	<img
     	align="left"
-    	src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    	src="https://github-readme-stats.vercel.app/api/top-langs/?HKkit1=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     	alt="Github Stats"
   	/>
 	</td>
